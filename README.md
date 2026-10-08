@@ -1,4 +1,4 @@
-# PAH-noncoding-variant-modifiers-analysis
+# PAH-noncoding-modifier-analysis
 Analysis of regulatory variation in pulmonary arterial hypertension and lung-development pathway genes.
 
 Code associated with the manuscript “Variable expressivity of TBX4 loss-of-function: cataloging noncoding variants as potential modifiers of lung development.”
