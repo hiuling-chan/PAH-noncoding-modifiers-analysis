@@ -1,7 +1,7 @@
 # PAH-noncoding-variant-modifiers-analysis
 Analysis of regulatory variation in pulmonary arterial hypertension and lung-development pathway genes.
 
-Code associated with the analysis of rare coding and non-coding
+Code associated with the analysis of rare coding and noncoding
 variation in lung-development pathway genes in pulmonary arterial
 hypertension (PAH).
 
