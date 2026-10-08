@@ -13,6 +13,8 @@ features.
 
 Commands used to extract, annotate and compare variants in the TADs of TBX4 and 12 lung-development pathway genes in the TBX4-PAH and TBX4-lethal lung cohorts, with 1000 Genomes EUR as a reference.
 
+# Genome assembly: GRCh38
+
 ### 01. Merge per-sample VCFs
 ```bash
 bcftools merge -m none --file-list sample_IDs.txt -Oz -o <cohort>.vcf.gz
